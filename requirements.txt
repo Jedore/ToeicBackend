@@ -1,0 +1,4 @@
+fastapi==0.87.0
+pydub==0.25.1
+uvicorn==0.20.0
+uvloop==0.17.0
