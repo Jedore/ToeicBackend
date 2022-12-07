@@ -5,12 +5,15 @@
     @time: 2022/11/28 21:35
     @desc:
 """
-
+from datetime import datetime
 from typing import Optional
 
 from sqlmodel import Field, SQLModel
 
-from utils import db
+
+class Rsp(SQLModel):
+    code: int = Field(0)
+    msg: str = Field('')
 
 
 class Hero(SQLModel, table=True):
@@ -20,4 +23,9 @@ class Hero(SQLModel, table=True):
     age: Optional[int] = None
 
 
-SQLModel.metadata.create_all(db.engine)
+class Base(SQLModel):
+    t_created: datetime
+    t_updated: datetime
+    t_deleted: datetime
+
+

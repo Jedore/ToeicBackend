@@ -1,6 +1,7 @@
 alembic==1.8.1
-fastapi==0.87.0
+fastapi==0.88.0
 pydub==0.25.1
 sqlalchemy==1.4.44
+sqlmodel==0.0.8
 uvicorn==0.20.0
 uvloop==0.17.0
