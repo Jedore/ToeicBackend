@@ -23,7 +23,7 @@ class Hero(SQLModel, table=True):
     age: Optional[int] = None
 
 
-class Base(SQLModel):
+class BaseModel(SQLModel):
     t_created: datetime
     t_updated: datetime
     t_deleted: datetime
