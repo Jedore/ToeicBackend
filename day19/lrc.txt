@@ -109,7 +109,7 @@
 
 - 1. They are seated across from each other.
 
-     他们面对面地坐着。
+    他们面对面地坐着。
 
 - 2. The man is standing next to the armchair.
 
@@ -163,7 +163,7 @@
 
     草地被修剪的很平整。
 
-- 15. He is standing at the news stand.
+- 15. He is standing at the newsstand.
 
     他站在报刊亭。
 
@@ -191,7 +191,7 @@
 
     桌子被遮住了一部分。
 
-- 22. There are no pedestrians on the side walk.
+- 22. There are no pedestrians on the sidewalk.
 
     人行道上没有行人。
 
@@ -418,7 +418,7 @@
 
     请走另外一条路。
 
-- 3. I anticipate the drive will take no more than three hours  .
+- 3. I anticipate the drive will take no more than three hours.
 
     我预期车程不会超过3个小时。
 
@@ -565,11 +565,11 @@
 
     他们正在使用割草机。
 
-- 16. Are you still on line?
+- 16. Are you still online?
 
     你还在线上吗？
 
-- 17. The press wasn’t operating.
+- 17. The press wasn't operating.
 
     打印机不工作了。
 
@@ -937,7 +937,7 @@
 
     我被调到了巴黎。
 
-- 16. The company is under staffed because of low salaries.
+- 16. The company is understaffed because of low salaries.
 
     这个公司因为工资低而人手不足。
 
@@ -1004,7 +1004,10 @@
 
     你可以把洗好的衣服挂在绳子上吗？
 
-- 14. It is an honor to meet you.  见到您非常荣幸。
+- 14. It is an honor to meet you.
+
+    见到您非常荣幸。
+
 - 15. They have not seen each other in ages.
 
     他们很多年没有见过对方了。
@@ -1037,7 +1040,7 @@
 
     我经常和我的宠物一起出去散步。
 
-- 23. I placed my books in an alphabetical order.
+- 23. I placed my books in alphabetical order.
 
     我按照字母顺序码放我的书。
 
@@ -1092,7 +1095,7 @@
 
     你介意我取消明天的约会吗？
 
-- 11. Didn’t Mrs.Yoo notify you of the cancellation?
+- 11. Didn't Mrs.Yoo notify you of the cancellation?
 
     Yoo女士没有告诉你有关取消的事情吗？
 
@@ -1120,7 +1123,7 @@
 
     会议开始被定在了星期一，但是又被推迟到下个星期。
 
-- 18. After all, she didn’t show up.
+- 18. After all, she didn't show up.
 
     最后她没有出现。
 
@@ -1250,7 +1253,7 @@
 
     我们将把发票邮寄过去。
 
-- 6. Your merchandise shipment hasn’t arrived.
+- 6. Your merchandise shipment hasn't arrived.
 
     你的货船还没有到。
 
@@ -1341,7 +1344,7 @@
 
     每个月的第一个星期二将会召开董事会。
 
-- 6. The ground breaking ceremony will start after all the guests arrive.
+- 6. The groundbreaking ceremony will start after all the guests arrive.
 
     奠基仪式将在全部客人到达之后开始。
 
@@ -1535,7 +1538,7 @@
 
     这项政策的有效时间是多久？
 
-- 9. The product was in stock last week, wasn’t it?
+- 9. The product was in stock last week, wasn't it?
 
     商品上周在仓库里，不是吗？
 
@@ -1685,7 +1688,7 @@
 
     你对什么药物过敏吗？
 
-- 2. I’m not feeling well.  I think I might call in sick.
+- 2. I’m not feeling well. I think I might call in sick.
 
     我觉得不是很舒服，我想我可能得打电话请病假。
 

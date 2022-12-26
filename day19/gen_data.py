@@ -2,7 +2,7 @@ from model.day19 import Lrc
 
 
 def gen_lrc():
-    data = []
+    data = {}
     with open('lrc.txt', 'r', encoding='utf8') as fp:
         record = []
         day = ''
@@ -14,13 +14,14 @@ def gen_lrc():
                 day = line[3:]
             elif line.startswith('-'):
                 line = line[2:]
-                index = line.index('.')
-                st, en = int(line[:index]), line[index + 1:].strip()
-                record.extend([st, en])
+                # index = line.index('.')
+                # st, en = int(line[:index]), line[index + 1:].strip()
+                record.append(line)
             else:
                 zh = line.strip()
                 record.append(zh)
-                data.append(record.copy())
+                value = data.setdefault(day, [])
+                value.append(tuple(record))
                 record.clear()
     print(data)
 
